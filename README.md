@@ -21,4 +21,4 @@
 5. update value pada kolom = nama, id = 1
    dari 1.ustadz.mika = nama antum<font color="orange">[SCRENSHOOT]</font>
 6. ubah nama table dari <font color="red">'Order'</font> ke <font color="red">'Pesanan'</font> <font color="orange">[SCRENSHOOT]</font>
-7. export database <font color="red">'TOKO'</font> dengan fileName = nama antum, contoh: eko.sql
+7. export database <font color="red">'STORE'</font> dengan fileName = nama antum, contoh: eko.sql
