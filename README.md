@@ -1,4 +1,4 @@
-## Latihan
+## Latihan Database MySQL
 1. buat database <font color="red">'STORE'</font> , lalu jalankan perintah untuk menampilkan database yg antum buat. <font color="orange">[SCREENSHOT]</font>
 2. buat table <font color="red">'Order'</font> dalam database <font color="red">'STORE'</font> dengan kolom dan type data seperti berikut:
     - **id_pesanan** = type data nya number(bebas), buat kolom ini unik dan auto_increment
